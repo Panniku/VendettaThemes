@@ -118,6 +118,15 @@
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#31353abf"
+        ],
+        "LOGO_PRIMARY": [
+            "#ced3da"
+        ],
+        "MENTION_BACKGROUND": [
+            "#dfe4eb80"
+        ],
+        "MENTION_FOREGROUND": [
+            "#dfe4eb"
         ]
     },
     "rawColors": {
