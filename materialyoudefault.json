@@ -106,6 +106,12 @@
         ],
         "CHAT_BACKGROUND": [
             "#11151a"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#1e1f22"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "#232428"
         ]
     },
     "rawColors": {
@@ -120,15 +126,15 @@
         "PRIMARY_660": "#11151a",
         "PRIMARY_700": "#11151a",
         "PRIMARY_800": "#11151a",
-        "BRAND_260": "#ff0000",
-        "BRAND_360": "#00ff00",
-        "BRAND_500": "#0000ff",
-        "BRAND_560": "#ffff00",
-        "YELLOW_300": "#ff00ff",
-        "GREEN_600": "#00ffff",
-        "RED_400": "#420000",
-        "WHITE_500": "#004D04",
-        "GREEN_360": "#01073F"
+        "BRAND_260": "#4e5359",
+        "BRAND_360": "#f3f8ff",
+        "BRAND_500": "#31353a",
+        "BRAND_560": "#4e5359",
+        "YELLOW_300": "#dfe4eb",
+        "GREEN_600": "#dfe4eb",
+        "RED_400": "#4e5359",
+        "WHITE_500": "#ebf0f7",
+        "GREEN_360": "#dfe4eb"
     },
     "spec": 2
 }
