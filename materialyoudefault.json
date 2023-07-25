@@ -21,13 +21,13 @@
             "#61666c"
         ],
         "INTERACTIVE_NORMAL": [
-            "#EFDFD7"
+            "#ced3da"
         ],
         "INTERACTIVE_HOVER": [
-            "#503E38"
+            "#31353a"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#EFDFD7"
+            "#dfe4eb"
         ],
         "INTERACTIVE_MUTED": [
             "#31353a"
@@ -87,16 +87,16 @@
             "#11151a"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#ffff00"
+            "#11151a"
         ],
         "CHANNELS_DEFAULT": [
             "#4e5359"
         ],
         "TEXT_LINK": [
-            "#2e8ffd"
+            "#ced3da"
         ],
         "TEXT_DANGER": [
-            "#284bb7"
+            "#ced3da"
         ],
         "KEYBOARD": [
             "#11151a"
@@ -109,17 +109,17 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_500": "#9E8376",
-        "PRIMARY_100": "#EFDFD7",
-        "PRIMARY_200": "#F4EAE5",
-        "PRIMARY_300": "#9E8376",
-        "PRIMARY_360": "#9E8376",
-        "PRIMARY_400": "#9E8376",
-        "PRIMARY_600": "#100D0A",
-        "PRIMARY_630": "#1B1411",
-        "PRIMARY_660": "#1B1411",
-        "PRIMARY_700": "#100D0A",
-        "PRIMARY_800": "#100D0A",
+        "PRIMARY_100": "#ff0000",
+        "PRIMARY_200": "#00ff00",
+        "PRIMARY_300": "#0000ff",
+        "PRIMARY_360": "#ff00ff",
+        "PRIMARY_400": "#ffff00",
+        "PRIMARY_500": "#00ffff",
+        "PRIMARY_600": "#460000",
+        "PRIMARY_630": "#075700",
+        "PRIMARY_660": "#000980",
+        "PRIMARY_700": "#690052",
+        "PRIMARY_800": "#554800",
         "BRAND_260": "#957261",
         "BRAND_360": "#D0A996",
         "BRAND_500": "#957261",
