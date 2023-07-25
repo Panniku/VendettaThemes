@@ -36,28 +36,28 @@
             "#212a36"
         ],
         "BACKGROUND_SECONDARY": [
-            "#333e4d"
+            "#212a36"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#333e4d"
+            "#212a36"
         ],
         "BACKGROUND_TERTIARY": [
             "#212a36"
         ],
         "BACKGROUND_ACCENT": [
-            "#503E38"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#15100d"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#15100d"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#15100d"
+            "#333e4d"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#15100d"
+            "#333e4d"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#333e4d"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#212a36"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "212a36"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#322720"
@@ -72,7 +72,7 @@
             "#372d2b"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "503E38"
+            "#503E38"
         ],
         "SCROLLBAR_THIN_THUMB": [
             "#26273b"
@@ -90,7 +90,7 @@
             "#372E29"
         ],
         "CHANNELS_DEFAULT": [
-            "#9E8376"
+            "#333e4d"
         ],
         "TEXT_LINK": [
             "#9E8376"
@@ -105,7 +105,7 @@
             "#EFDFD7"
         ],
         "CHAT_BACKGROUND": [
-            "#110D0A"
+            "#212a36"
         ]
     },
     "rawColors": {
