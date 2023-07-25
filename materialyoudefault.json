@@ -9,16 +9,16 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#f0f0f0"
+            "#ced3da"
         ],
         "HEADER_SECONDARY": [
-            "#f0f0f0"
+            "#a9aeb5"
         ],
         "TEXT_NORMAL": [
-            "#E7D6CE"
+            "#ced3da"
         ],
         "TEXT_MUTED": [
-            "#A07D6C"
+            "#61666c"
         ],
         "INTERACTIVE_NORMAL": [
             "#EFDFD7"
@@ -54,10 +54,10 @@
             "#31353a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#253243"
+            "#11151"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#253243"
+            "#11151"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#322720"
