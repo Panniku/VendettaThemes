@@ -9,10 +9,10 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#EFDFD7"
+            "#f0f0f0"
         ],
         "HEADER_SECONDARY": [
-            "#EFDFD7"
+            "#f0f0f0"
         ],
         "TEXT_NORMAL": [
             "#E7D6CE"
@@ -33,16 +33,16 @@
             "#957261"
         ],
         "BACKGROUND_PRIMARY": [
-            "#110D0A"
+            "#212a36"
         ],
         "BACKGROUND_SECONDARY": [
-            "#15100d"
+            "#333e4d"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#15100d"
+            "#333e4d"
         ],
         "BACKGROUND_TERTIARY": [
-            "#110D0A"
+            "#212a36"
         ],
         "BACKGROUND_ACCENT": [
             "#503E38"
