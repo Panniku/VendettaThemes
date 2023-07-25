@@ -30,7 +30,7 @@
             "#EFDFD7"
         ],
         "INTERACTIVE_MUTED": [
-            "#957261"
+            "##253243"
         ],
         "BACKGROUND_PRIMARY": [
             "#253243"
@@ -105,7 +105,7 @@
             "#EFDFD7"
         ],
         "CHAT_BACKGROUND": [
-            "#253243"
+            "#131f2d"
         ]
     },
     "rawColors": {
