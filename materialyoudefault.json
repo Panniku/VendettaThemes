@@ -1,6 +1,6 @@
 {
-    "name": "MaterialYou Default",
-    "description": "Based on the original M3 MonetThemeGenerator plugin's default colors",
+    "name": "BlueDark",
+    "description": "Darkened Theme with a slight hint of blue",
     "authors": [
         {
             "name": "panniku",
@@ -9,13 +9,13 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#ced3da"
+            "#dfe4eb"
         ],
         "HEADER_SECONDARY": [
-            "#a9aeb5"
+            "#ced3da"
         ],
         "TEXT_NORMAL": [
-            "#ced3da"
+            "#dfe4eb"
         ],
         "TEXT_MUTED": [
             "#61666c"
@@ -51,7 +51,7 @@
             "#31353a"
         ],
         "BACKGROUND_FLOATING": [
-            "#31353a"
+            "#11151a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#11151a"
@@ -60,49 +60,49 @@
             "#11151a"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#322720"
+            "#31353a"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#322720"
+            "#11151a"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#3a2c26"
+            "#31353a"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#372d2b"
+            "#31353a"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#503E38"
+            "#31353a"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#26273b"
+            "#4e5359"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#DAC0B3"
+            "#31353a"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#DAC0B3"
+            "#11151a"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#372E29"
+            "#ffff00"
         ],
         "CHANNELS_DEFAULT": [
             "#4e5359"
         ],
         "TEXT_LINK": [
-            "#9E8376"
+            "#2e8ffd"
         ],
         "TEXT_DANGER": [
-            "#503E38"
+            "#284bb7"
         ],
         "KEYBOARD": [
-            "#110D0A"
+            "#11151a"
         ],
         "CHANNEL_ICON": [
-            "#EFDFD7"
+            "#4e5359"
         ],
         "CHAT_BACKGROUND": [
             "#11151a"
