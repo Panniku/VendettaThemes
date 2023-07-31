@@ -9,13 +9,13 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#dfe4eb"
+            "#DBE3EA"
         ],
         "HEADER_SECONDARY": [
-            "#ced3da"
+            "#8C9399"
         ],
         "TEXT_NORMAL": [
-            "#dfe4eb"
+            "#DBE3EA"
         ],
         "TEXT_MUTED": [
             "#61666c"
@@ -105,7 +105,7 @@
             "#4e5359"
         ],
         "CHAT_BACKGROUND": [
-            "#11151a"
+            "#171C20"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#31353a"
@@ -153,4 +153,4 @@
         "GREEN_360": "#dfe4eb"
     },
     "spec": 2
-}
+    }
