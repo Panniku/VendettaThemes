@@ -30,7 +30,7 @@
             "#D1E5F4"
         ],
         "INTERACTIVE_MUTED": [
-            "#36475680"
+            "#364756b3"
         ],
         "BACKGROUND_PRIMARY": [
             "#202A32"
@@ -60,22 +60,22 @@
             "#202A32"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#31353a"
+            "#1E2529"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#11151a"
+            "#1E2529"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#31353a"
+            "#1E2529"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#31353a"
+            "#374955"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#31353a"
+            "#3F464B"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#transparent"
+            "transparent"
         ],
         "SCROLLBAR_THIN_TRACK": [
             "transparent"
@@ -87,22 +87,22 @@
             "transparent"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#11151a"
+            "#202A32"
         ],
         "CHANNELS_DEFAULT": [
-            "#364756"
+            "#36475659"
         ],
         "TEXT_LINK": [
-            "#ced3da"
+            "#76D1FF"
         ],
         "TEXT_DANGER": [
-            "#ced3da"
+            "#76D1FF"
         ],
         "KEYBOARD": [
-            "#11151a"
+            "#1E2529"
         ],
         "CHANNEL_ICON": [
-            "#4e5359"
+            "#36475659"
         ],
         "CHAT_BACKGROUND": [
             "#171C20"
@@ -153,4 +153,4 @@
         "GREEN_360": "#dfe4eb"
     },
     "spec": 2
-    }
+}
