@@ -39,7 +39,7 @@
             "#202A32"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#364756"
+            "#202A32"
         ],
         "BACKGROUND_TERTIARY": [
             "#171C20"
@@ -139,7 +139,7 @@
         "PRIMARY_360": "#C0C7CD80",
         "PRIMARY_400": "#40474D",
         "PRIMARY_500": "#171C20",
-        "PRIMARY_600": "#202A32",
+        "PRIMARY_600": "#171C20",
         "PRIMARY_630": "#202A32",
         "PRIMARY_660": "#364756",
         "PRIMARY_700": "#202A32",
