@@ -144,10 +144,10 @@
         "PRIMARY_660": "#364756",
         "PRIMARY_700": "#0000ff",
         "PRIMARY_800": "#202A32",
-        "BRAND_260": "#003549",
+        "BRAND_260": "#0000ff",
         "BRAND_360": "#76D1FF",
         "BRAND_500": "#364756",
-        "BRAND_560": "#76D1FF",
+        "BRAND_560": "#ff00ff",
         "YELLOW_300": "#8AC6FF",
         "GREEN_360": "#76D1FF",
         "GREEN_600": "#76D1FF",
@@ -156,4 +156,4 @@
         "WHITE_500": "#DBE3EA"
     },
     "spec": 2
-    }
+}
