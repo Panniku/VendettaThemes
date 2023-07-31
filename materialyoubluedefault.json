@@ -114,10 +114,10 @@
             "#40474D"
         ],
         "BACKGROUND_MENTIONED": [
-            "#8AC6FF80"
+            "#1E2529"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#8AC6FF80"
+            "#1E2529"
         ],
         "LOGO_PRIMARY": [
             "#CBE4FA"
@@ -140,20 +140,20 @@
         "PRIMARY_400": "#40474D",
         "PRIMARY_500": "#DBE3EA",
         "PRIMARY_600": "#202A32",
-        "PRIMARY_630": "#1E2529",
+        "PRIMARY_630": "#202A32",
         "PRIMARY_660": "#364756",
         "PRIMARY_700": "#202A32",
         "PRIMARY_800": "#202A32",
-        "BRAND_260": "#ff0000",
+        "BRAND_260": "#76D1FF",
         "BRAND_360": "#76D1FF",
         "BRAND_500": "#364756",
-        "BRAND_560": "#0000ff",
+        "BRAND_560": "#003549",
         "YELLOW_300": "#8AC6FF",
-        "GREEN_600": "#aaff00",
-        "RED_345": "#00ffaa",
-        "RED_400": "#002F4E",
+        "GREEN_360": "#76D1FF"
+        "GREEN_600": "#76D1FF",
+        "RED_345": "#76D1FF",
+        "RED_400": "#202A32",
         "WHITE_500": "#DBE3EA",
-        "GREEN_360": "#ffff00"
     },
     "spec": 2
-}
+    }
