@@ -30,7 +30,7 @@
             "#D1E5F4"
         ],
         "INTERACTIVE_MUTED": [
-            "#8C9399"
+            "#36475680"
         ],
         "BACKGROUND_PRIMARY": [
             "#202A32"
@@ -90,7 +90,7 @@
             "#11151a"
         ],
         "CHANNELS_DEFAULT": [
-            "#CBE4FA"
+            "#364756"
         ],
         "TEXT_LINK": [
             "#ced3da"
@@ -136,7 +136,7 @@
         "PRIMARY_360": "#4e5359",
         "PRIMARY_400": "#31353a",
         "PRIMARY_500": "#31353a",
-        "PRIMARY_600": "#11151a",
+        "PRIMARY_600": "#202A32",
         "PRIMARY_630": "#11151a",
         "PRIMARY_660": "#11151a",
         "PRIMARY_700": "#11151a",
