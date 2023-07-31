@@ -21,7 +21,7 @@
             "#7D8082"
         ],
         "INTERACTIVE_NORMAL": [
-            "#ff00ff"
+            "#C0C7CD"
         ],
         "INTERACTIVE_HOVER": [
             "#374955"
@@ -142,11 +142,11 @@
         "PRIMARY_600": "#202A32",
         "PRIMARY_630": "#202A32",
         "PRIMARY_660": "#364756",
-        "PRIMARY_700": "#202A32",
+        "PRIMARY_700": "#0000ff",
         "PRIMARY_800": "#202A32",
         "BRAND_260": "#003549",
-        "BRAND_360": "#00ffaa",
-        "BRAND_500": "#ff00aa",
+        "BRAND_360": "#76D1FF",
+        "BRAND_500": "#364756",
         "BRAND_560": "#76D1FF",
         "YELLOW_300": "#8AC6FF",
         "GREEN_360": "#76D1FF",
@@ -156,4 +156,4 @@
         "WHITE_500": "#DBE3EA"
     },
     "spec": 2
-}
+    }
