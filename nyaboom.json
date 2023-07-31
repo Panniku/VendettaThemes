@@ -19,7 +19,13 @@
 	 ],
 	"MODAL_BACKGROUND": [
 	    "#baed80"
-	]
+	],
+	"BACKGROUND_FLOATING": [
+            "#57303c"
+        ],
+        "CHAT_BACKGROUND": [
+            "#8d7ea3"
+        ]
     },
     "rawColors": {
         "PRIMARY_100": "#ff0000",
