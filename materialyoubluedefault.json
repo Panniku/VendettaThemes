@@ -27,10 +27,10 @@
             "#374955"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#D1E5F4"
+            "#CBE4FA"
         ],
         "INTERACTIVE_MUTED": [
-            "#36475673"
+            "#CBE4FA73"
         ],
         "BACKGROUND_PRIMARY": [
             "#202A32"
@@ -90,7 +90,7 @@
             "#202A32"
         ],
         "CHANNELS_DEFAULT": [
-            "#364756cc"
+            "#CBE4FAcc"
         ],
         "TEXT_LINK": [
             "#76D1FF"
