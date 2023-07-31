@@ -45,7 +45,7 @@
             "#171C20"
         ],
         "BACKGROUND_ACCENT": [
-            "#1E2529"
+            "#364756"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#202A32"
@@ -108,46 +108,46 @@
             "#171C20"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#31353a"
+            "#40474D"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
-            "#31353a"
+            "#40474D"
         ],
         "BACKGROUND_MENTIONED": [
-            "#31353a80"
+            "#8AC6FF80"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#31353abf"
+            "#8AC6FF80"
         ],
         "LOGO_PRIMARY": [
-            "#ced3da"
+            "#CBE4FA"
         ],
         "MENTION_BACKGROUND": [
-            "#dfe4eb80"
+            "#364756"
         ],
         "MENTION_FOREGROUND": [
-            "#dfe4eb"
+            "#CBE4FA"
         ]
     },
     "rawColors": {
-        "PRIMARY_100": "#ff0000",
-        "PRIMARY_200": "#00ff00",
-        "PRIMARY_300": "#0000ff",
-        "PRIMARY_360": "#ffff00",
-        "PRIMARY_400": "#ff00ff",
+        "PRIMARY_100": "#DBE3EA",
+        "PRIMARY_200": "#364756",
+        "PRIMARY_300": "#DBE3EA",
+        "PRIMARY_360": "#C0C7CD80",
+        "PRIMARY_400": "#40474D",
         "PRIMARY_500": "#1E2529",
         "PRIMARY_600": "#202A32",
-        "PRIMARY_630": "#ff00aa",
-        "PRIMARY_660": "#ffaa00",
-        "PRIMARY_700": "#aaff00",
-        "PRIMARY_800": "#00ffaa",
+        "PRIMARY_630": "#76D1FF",
+        "PRIMARY_660": "#364756",
+        "PRIMARY_700": "#202A32",
+        "PRIMARY_800": "#202A32",
         "BRAND_260": "#aa00ff",
         "BRAND_360": "#00aaff",
-        "BRAND_500": "#31353a",
-        "BRAND_560": "#4e5359",
-        "YELLOW_300": "#dfe4eb",
-        "GREEN_600": "#dfe4eb",
-        "RED_345": "#dfe4eb",
+        "BRAND_500": "#ff00aa",
+        "BRAND_560": "#ffaa00",
+        "YELLOW_300": "#8AC6FF",
+        "GREEN_600": "#aaff00",
+        "RED_345": "#00ffaa",
         "RED_400": "#4e5359",
         "WHITE_500": "#ebf0f7",
         "GREEN_360": "#dfe4eb"
