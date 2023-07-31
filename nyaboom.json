@@ -9,8 +9,17 @@
     ],
     "semanticColors": {
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#00ffff"
-        ]
+            "#00ff00"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+	        "#0000ff"
+	    ],
+	    "BACKGROUND_PRIMARY": [
+	        "#ff000"
+	    ],
+	    "MODAL_BACKGROUND": [
+	        "#00aaff"
+	    ],
     },
     "rawColors": {
         "PRIMARY_100": "#DBE3EA",
