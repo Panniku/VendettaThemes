@@ -140,21 +140,21 @@
         "PRIMARY_400": "#40474D",
         "PRIMARY_500": "#1E2529",
         "PRIMARY_600": "#202A32",
-        "PRIMARY_630": "#76D1FF",
+        "PRIMARY_630": "#ff0000",
         "PRIMARY_660": "#364756",
         "PRIMARY_700": "#202A32",
         "PRIMARY_800": "#202A32",
-        "BRAND_260": "#76D1FF",
+        "BRAND_260": "#00ff00",
         "BRAND_360": "#00000000",
         "BRAND_500": "#364756",
-        "BRAND_560": "#76D1FF",
+        "BRAND_560": "#0000ff",
         "YELLOW_300": "#8AC6FF",
         "GREEN_360": "#00ff00",
         "GREEN_600": "#aaff00",
         "RED_345": "#00ffaa",
-        "RED_400": "#76D1FF",
-        "WHITE_500": "#ebf0f7",
-        "GREEN_360": "#dfe4eb"
+        "RED_400": "#002F4E",
+        "WHITE_500": "#aaff00",
+        "GREEN_360": "#ffff00"
     },
     "spec": 2
-}
+    }
