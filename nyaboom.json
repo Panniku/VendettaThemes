@@ -8,7 +8,9 @@
         }
     ],
     "semanticColors": {
-                    
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#00ffff"
+        ]
     },
     "rawColors": {
         "PRIMARY_100": "#DBE3EA",
