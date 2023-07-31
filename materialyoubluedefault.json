@@ -33,10 +33,10 @@
             "#C0C7CD40"
         ],
         "BACKGROUND_PRIMARY": [
-            "#202A32"
+            "#ff0000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#202A32"
+            "#00ff00"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#364756"
@@ -57,7 +57,7 @@
             "#171C20"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#202A32"
+            "#ffff00"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#1E2529"
@@ -105,7 +105,7 @@
             "#C0C7CD80"
         ],
         "CHAT_BACKGROUND": [
-            "#ffffff"
+            "#171C20"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#40474D"
@@ -138,8 +138,8 @@
         "PRIMARY_300": "#DBE3EA",
         "PRIMARY_360": "#C0C7CD80",
         "PRIMARY_400": "#40474D",
-        "PRIMARY_500": "#202A32",
-        "PRIMARY_600": "#202A32",
+        "PRIMARY_500": "#ff00ff",
+        "PRIMARY_600": "#00ffff",
         "PRIMARY_630": "#202A32",
         "PRIMARY_660": "#364756",
         "PRIMARY_700": "#202A32",
