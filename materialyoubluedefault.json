@@ -1,6 +1,6 @@
 {
-    "name": "M3MaterialYouBlueDefault",
-    "description": "Default M3MaterialYou Blue Theme",
+    "name": "MaterialYouBlueDefault",
+    "description": "Default MaterialYou Blue Theme",
     "authors": [
         {
             "name": "panniku",
@@ -133,9 +133,9 @@
         ]
     },
     "rawColors": {
-        "PRIMARY_100": "#DBE3EA",
+        "PRIMARY_100": "#ff0000",
         "PRIMARY_200": "#364756",
-        "PRIMARY_300": "#DBE3EA",
+        "PRIMARY_300": "#00ff00",
         "PRIMARY_360": "#C0C7CD80",
         "PRIMARY_400": "#40474D",
         "PRIMARY_500": "#DBE3EA",
@@ -144,10 +144,10 @@
         "PRIMARY_660": "#364756",
         "PRIMARY_700": "#202A32",
         "PRIMARY_800": "#202A32",
-        "BRAND_260": "#76D1FF",
+        "BRAND_260": "#003549",
         "BRAND_360": "#76D1FF",
         "BRAND_500": "#364756",
-        "BRAND_560": "#003549",
+        "BRAND_560": "#76D1FF",
         "YELLOW_300": "#8AC6FF",
         "GREEN_360": "#76D1FF",
         "GREEN_600": "#76D1FF",
