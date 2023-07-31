@@ -16,7 +16,7 @@
         "PRIMARY_300": "#DBE3EA",
         "PRIMARY_360": "#C0C7CD80",
         "PRIMARY_400": "#40474D",
-        "PRIMARY_500": "#202A32",
+        "PRIMARY_500": "#ff0000",
         "PRIMARY_600": "#202A32",
         "PRIMARY_630": "#202A32",
         "PRIMARY_660": "#364756",
@@ -34,4 +34,4 @@
         "WHITE_500": "#DBE3EA"
     },
     "spec": 2
-    }
+}
