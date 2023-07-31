@@ -127,6 +127,9 @@
         ],
         "MENTION_FOREGROUND": [
             "#CBE4FA"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#C0C7CD"
         ]
     },
     "rawColors": {
@@ -141,14 +144,15 @@
         "PRIMARY_660": "#364756",
         "PRIMARY_700": "#202A32",
         "PRIMARY_800": "#202A32",
-        "BRAND_260": "#aa00ff",
-        "BRAND_360": "#00aaff",
-        "BRAND_500": "#ff00aa",
-        "BRAND_560": "#ffaa00",
+        "BRAND_260": "#76D1FF",
+        "BRAND_360": "#00000000",
+        "BRAND_500": "#364756",
+        "BRAND_560": "#76D1FF",
         "YELLOW_300": "#8AC6FF",
+        "GREEN_360": "#00ff00",
         "GREEN_600": "#aaff00",
         "RED_345": "#00ffaa",
-        "RED_400": "#4e5359",
+        "RED_400": "#76D1FF",
         "WHITE_500": "#ebf0f7",
         "GREEN_360": "#dfe4eb"
     },
