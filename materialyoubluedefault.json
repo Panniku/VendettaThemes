@@ -18,31 +18,31 @@
             "#DBE3EA"
         ],
         "TEXT_MUTED": [
-            "#61666c"
+            "#ff0000"
         ],
         "INTERACTIVE_NORMAL": [
-            "#4e5359"
+            "#00ff00"
         ],
         "INTERACTIVE_HOVER": [
-            "#4e5359"
+            "#0000ff"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#dfe4eb"
+            "#ffff00"
         ],
         "INTERACTIVE_MUTED": [
-            "#31353a"
+            "#ff00ff"
         ],
         "BACKGROUND_PRIMARY": [
-            "#11151a"
+            "#00ffff"
         ],
         "BACKGROUND_SECONDARY": [
-            "#11151a"
+            "#32a852"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#11151a"
+            "#70b4c2"
         ],
         "BACKGROUND_TERTIARY": [
-            "#11151a"
+            "#3a41c7"
         ],
         "BACKGROUND_ACCENT": [
             "#31353a"
@@ -153,4 +153,4 @@
         "GREEN_360": "#dfe4eb"
     },
     "spec": 2
-    }
+}
