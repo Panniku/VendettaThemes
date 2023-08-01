@@ -149,8 +149,8 @@
             "#DCE3E9"
         ],
         "BACKGROUND_MENTIONED": [
-            "#76D1FF40",
-            "#00668B40"
+            "#76D1FF1a",
+            "#00668B1a"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#1E2529",
@@ -194,7 +194,8 @@
         "GREEN_600": "#76D1FF",
         "RED_345": "#76D1FF",
         "RED_400": "#364756",
-        "WHITE_500": "#E1E3E5"
+        "WHITE_500": "#E1E3E5",
+        "PREMIUM_TIER_0_PURPLE": "#202A32"
     },
     "spec": 2
     }
