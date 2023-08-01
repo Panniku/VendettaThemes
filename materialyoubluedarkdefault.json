@@ -107,6 +107,9 @@
         "CHAT_BACKGROUND": [
             "#171C20"
         ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#202A32"
+        ],
         "SPOILER_HIDDEN_BACKGROUND": [
             "#40474D"
         ],
@@ -138,6 +141,7 @@
         "PRIMARY_300": "#E1E3E5",
         "PRIMARY_360": "#C0C7CD80",
         "PRIMARY_400": "#8A9297",
+        "PRIMARY_460": "#202A32",
         "PRIMARY_500": "#171C20",
         "PRIMARY_600": "#171C20",
         "PRIMARY_630": "#202A32",
