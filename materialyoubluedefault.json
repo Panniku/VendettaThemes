@@ -37,8 +37,8 @@
             "#0A1C29"
         ],
         "INTERACTIVE_MUTED": [
-            "#C0C7CD40",
-            "#40484D40"
+            "#485158",
+            "#999EA6"
         ],
         "BACKGROUND_PRIMARY": [
             "#171C20",
@@ -117,8 +117,8 @@
             "#E6EEF6"
         ],
         "CHANNELS_DEFAULT": [
-            "#C0C7CD80",
-            "#40484D40"
+            "#707980",
+            "#5C5E66"
         ],
         "TEXT_LINK": [
             "#76D1FF",
@@ -133,8 +133,8 @@
             "#CBE4FA"
         ],
         "CHANNEL_ICON": [
-            "#C0C7CD80",
-            "#40484D40"
+            "#707980",
+            "#5C5E66"
         ],
         "CHAT_BACKGROUND": [
             "#171C20",
@@ -169,7 +169,7 @@
             "#0A1C29"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#E1E3E5",
+            "#C0C7CD",
             "#191C1E"
         ]
     },
