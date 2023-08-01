@@ -189,13 +189,13 @@
         "BRAND_360": "#76D1FF",
         "BRAND_500": "#364756",
         "BRAND_560": "#364756",
+        "BRAND_600": "#202A32",
         "YELLOW_300": "#8AC6FF",
         "GREEN_360": "#76D1FF",
         "GREEN_600": "#76D1FF",
         "RED_345": "#76D1FF",
         "RED_400": "#364756",
-        "WHITE_500": "#E1E3E5",
-        "PREMIUM_TIER_0_PURPLE": "#202A32"
+        "WHITE_500": "#E1E3E5"
     },
     "spec": 2
     }
