@@ -21,8 +21,8 @@
             "#191C1E"
         ],
         "TEXT_MUTED": [
-            "#3E474F",
-            "#D5E3F0"
+            "#8A9197",
+            "#6F767C"
         ],
         "INTERACTIVE_NORMAL": [
             "#C0C7CD",
@@ -149,8 +149,8 @@
             "#DCE3E9"
         ],
         "BACKGROUND_MENTIONED": [
-            "#1E2529",
-            "#EFF4F9"
+            "#76D1FF40",
+            "#00668B40"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
             "#1E2529",
