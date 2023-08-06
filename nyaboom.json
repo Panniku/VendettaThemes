@@ -1,47 +1,54 @@
 {
-    "name": ":3",
-    "description": "nyaboom",
-    "authors": [
-        {
-            "name": "panniku",
-            "id": "703634705152606318"
-        }
-    ],
-    "semanticColors": {
-        "CONTROL_BRAND_FOREGROUND": [
-      "#2e5e87"
-    ],
-    "CONTROL_BRAND_FOREGROUND_NEW": [
-      "#a877bf"
-    ]
-    },
-    "rawColors": {
-        "BRAND_100": "#ff0000",
-	    "BRAND_130": "#00ff00",
-	    "BRAND_160": "#0000ff",
-	    "BRAND_200": "#ffff00",
-	    "BRAND_230": "#ff00ff",
-	    "BRAND_260": "#00ffff",
-	    "BRAND_300": "#ff00aa",
-	    "BRAND_330": "#ffaa00",
-	    "BRAND_345": "#ff0000",
-	    "BRAND_360": "#aa00ff",
-	    "BRAND_400": "#00aaff",
-	    "BRAND_430": "#00ffaa",
-	    "BRAND_460": "#D95C0F",
-	    "BRAND_500": "#32CE15",
-	    "BRAND_530": "#FD189B",
-	    "BRAND_560": "#73407A",
-	    "BRAND_600": "#EE4C8E",
-	    "BRAND_630": "#5B395D",
-	    "BRAND_660": "#55EA0D",
-	    "BRAND_700": "#D516A4",
-	    "BRAND_730": "#8B8169",
-	    "BRAND_760": "#43A500",
-	    "BRAND_800": "#413318",
-	    "BRAND_830": "#DCE38F",
-	    "BRAND_860": "#FFA87F",
-	    "BRAND_900": "#322D61"
-    },
-    "spec": 2
+	"name": ":3",
+	"description": "nyaboom",
+	"authors": [
+		{
+			"name": "panniku",
+			"id": "703634705152606318"
+		}
+	],
+	"semanticColors": {
+		"CHANNELTEXTAREA_BACKGROUND": [
+			"#00ff00"
+		],
+		"BACKGROUND_MOBILE_PRIMARY": [
+			"#0000ff"
+		],
+		"BACKGROUND_PRIMARY": [
+			"#ff000"
+		],
+		"MODAL_BACKGROUND": [
+			"#baed80"
+		],
+		"BACKGROUND_FLOATING": [
+			"#57303c"
+		],
+		"CHAT_BACKGROUND": [
+			"#8d7ea3"
+		]
+	},
+	"rawColors": {
+		"PRIMARY_100": "#ff0000",
+		"PRIMARY_200": "#00ff00",
+		"PRIMARY_300": "#0000ff",
+		"PRIMARY_360": "#ffaa00",
+		"PRIMARY_400": "#ff00aa",
+		"PRIMARY_500": "#00ffaa",
+		"PRIMARY_600": "#00aaff",
+		"PRIMARY_630": "#aa00ff",
+		"PRIMARY_660": "#aaff00",
+		"PRIMARY_700": "#ffdd00",
+		"PRIMARY_800": "#ddff00",
+		"BRAND_260": "#0050ff",
+		"BRAND_360": "#5000ff",
+		"BRAND_500": "#ffcc00",
+		"BRAND_560": "#706432",
+		"YELLOW_300": "#7bc7a7",
+		"GREEN_360": "#8793c9",
+		"GREEN_600": "#4cb2cf",
+		"RED_345": "#baed80",
+		"RED_400": "#686e15",
+		"WHITE_500": "#ad4c7e"
+	},
+	"spec": 2
 }
