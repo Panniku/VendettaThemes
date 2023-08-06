@@ -1,0 +1,167 @@
+{
+    "name": "MintY-DarkGreen",
+    "description": "Name from Linux Mint-Y themes. With Themes+ support.",
+    "authors": [
+        {
+            "name": "panniku",
+            "id": "703634705152606318"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#E1E3E5"
+        ],
+        "HEADER_SECONDARY": [
+            "#8A9297"
+        ],
+        "TEXT_NORMAL": [
+            "#E1E3E5"
+        ],
+        "TEXT_MUTED": [
+            "#8A9197"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#C0C7CD"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#374955"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#CBE4FA"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#485158"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#171C20"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#202A32"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#202A32"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#171C20"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#364756"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#202A32"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#171C20"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#171C20"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#202A32"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#1E2529"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#1E2529"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "#1E2529"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#374955"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#40474D"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#00000000"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#00000000"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#00000000"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#00000000"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#202A32"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#707980"
+        ],
+        "TEXT_LINK": [
+            "#76D1FF"
+        ],
+        "TEXT_DANGER": [
+            "#76D1FF"
+        ],
+        "KEYBOARD": [
+            "#364756"
+        ],
+        "CHANNEL_ICON": [
+            "#707980"
+        ],
+        "CHAT_BACKGROUND": [
+            "#2a313b"
+        ],
+        "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+            "#202A32"
+        ],
+        "SPOILER_HIDDEN_BACKGROUND": [
+            "#40474D"
+        ],
+        "SPOILER_REVEALED_BACKGROUND": [
+            "#40474D"
+        ],
+        "BACKGROUND_MENTIONED": [
+            "#76D1FF1a"
+        ],
+        "BACKGROUND_MENTIONED_HOVER": [
+            "#1E2529"
+        ],
+        "LOGO_PRIMARY": [
+            "#CBE4FA"
+        ],
+        "MENTION_BACKGROUND": [
+            "#364756"
+        ],
+        "MENTION_FOREGROUND": [
+            "#CBE4FA"
+        ],
+        "CHANNEL_TEXT_AREA_PLACEHOLDER": [
+            "#C0C7CD"
+        ]
+    },
+    "rawColors": {
+        "BRAND_100": "#ff0000",
+        "BRAND_130": "#00ff00",
+        "BRAND_160": "#0000ff",
+        "BRAND_200": "#ffff00",
+        "BRAND_230": "#ff00ff",
+        "BRAND_260": "#00ffff",
+        "BRAND_300": "#ff00aa",
+        "BRAND_330": "#ffaa00",
+        "BRAND_345": "#ff0000",
+        "BRAND_360": "#aa00ff",
+        "BRAND_400": "#00aaff",
+        "BRAND_430": "#00ffaa",
+        "BRAND_460": "#D95C0F",
+        "BRAND_500": "#32CE15",
+        "BRAND_530": "#FD189B",
+        "BRAND_560": "#73407A",
+        "BRAND_600": "#EE4C8E",
+        "BRAND_630": "#5B395D",
+        "BRAND_660": "#55EA0D",
+        "BRAND_700": "#D516A4",
+        "BRAND_730": "#8B8169",
+        "BRAND_760": "#43A500",
+        "BRAND_800": "#413318",
+        "BRAND_830": "#DCE38F",
+        "BRAND_860": "#FFA87F",
+        "BRAND_900": "#322D61"
+    },
+    "spec": 2
+}
