@@ -9,25 +9,25 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#E1E3E5"
+            "#fafafa"
         ],
         "HEADER_SECONDARY": [
-            "#8A9297"
+            "#f5f5f5"
         ],
         "TEXT_NORMAL": [
-            "#E1E3E5"
+            "#fafafa"
         ],
         "TEXT_MUTED": [
-            "#8A9197"
+            "#444444"
         ],
         "INTERACTIVE_NORMAL": [
-            "#C0C7CD"
+            "#444444"
         ],
         "INTERACTIVE_HOVER": [
             "#374955"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#CBE4FA"
+            "#f0f0f0"
         ],
         "INTERACTIVE_MUTED": [
             "#485158"
@@ -105,7 +105,7 @@
             "#707980"
         ],
         "CHAT_BACKGROUND": [
-            "#2a313b"
+            "#232323"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
             "#202A32"
