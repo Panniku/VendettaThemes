@@ -21,7 +21,7 @@
             "#525252"
         ],
         "INTERACTIVE_NORMAL": [
-            "#3a3a3a"
+            "#525252"
         ],
         "INTERACTIVE_HOVER": [
             "#e2e2e2"
@@ -30,10 +30,10 @@
             "#e2e2e2"
         ],
         "INTERACTIVE_MUTED": [
-            "#3a3a3a"
+            "#525252"
         ],
         "BACKGROUND_PRIMARY": [
-            "#ffff00"
+            "#232323"
         ],
         "BACKGROUND_SECONDARY": [
             "#2e2e2e"
@@ -90,7 +90,7 @@
             "#202A32"
         ],
         "CHANNELS_DEFAULT": [
-            "#525252"
+            "#6a6a6a"
         ],
         "TEXT_LINK": [
             "#76D1FF"
