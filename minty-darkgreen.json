@@ -123,13 +123,13 @@
             "#66a6481a"
         ],
         "LOGO_PRIMARY": [
-            "#e2e2e2"
+            "#eeeeee"
         ],
         "MENTION_BACKGROUND": [
-            "#364756"
+            "#55923E80"
         ],
         "MENTION_FOREGROUND": [
-            "#CBE4FA"
+            "#e2e2e2"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#6a6a6a"
@@ -139,24 +139,24 @@
         "PRIMARY_100": "#eeeeee",
         "PRIMARY_200": "#eeeeee",
         "PRIMARY_300": "#eeeeee",
-        "PRIMARY_360": "#ff0000",
-        "PRIMARY_400": "#00ff00",
-        "PRIMARY_460": "#0000ff",
-        "PRIMARY_500": "#ffff00",
+        "PRIMARY_360": "#6a6a6a",
+        "PRIMARY_400": "#3a3a3a",
+        "PRIMARY_460": "#2e2e2e",
+        "PRIMARY_500": "#54923e",
         "PRIMARY_600": "#232323",
-        "PRIMARY_630": "#ff00ff",
-        "PRIMARY_660": "#00ffff",
-        "PRIMARY_700": "#2A6B3A",
-        "PRIMARY_800": "#604BAC",
-        "BRAND_260": "#CBE4FA",
-        "BRAND_360": "#76D1FF",
-        "BRAND_500": "#364756",
-        "BRAND_560": "#364756",
-        "BRAND_600": "#202A32",
+        "PRIMARY_630": "#2e2e2e",
+        "PRIMARY_660": "#232323",
+        "PRIMARY_700": "#3a3a3a",
+        "PRIMARY_800": "#232323",
+        "BRAND_260": "#f00",
+        "BRAND_360": "#0f0",
+        "BRAND_500": "#00f",
+        "BRAND_560": "#0ff",
+        "BRAND_600": "#f0f",
         "YELLOW_300": "#66a648",
-        "GREEN_360": "#76D1FF",
-        "GREEN_600": "#76D1FF",
-        "RED_345": "#76D1FF",
+        "GREEN_360": "#681996",
+        "GREEN_600": "#ff0",
+        "RED_345": "#54923e",
         "RED_400": "#79ba53",
         "WHITE_500": "#eeeeee"
     },
