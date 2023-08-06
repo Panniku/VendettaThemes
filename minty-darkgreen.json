@@ -129,7 +129,7 @@
             "#55923E80"
         ],
         "MENTION_FOREGROUND": [
-            "#e2e2e2"
+            "#88cb5b"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#6a6a6a"
@@ -148,9 +148,9 @@
         "PRIMARY_660": "#232323",
         "PRIMARY_700": "#3a3a3a",
         "PRIMARY_800": "#232323",
-        "BRAND_260": "#66a648",
+        "BRAND_260": "#79ba53",
         "BRAND_360": "#66a648",
-        "BRAND_500": "#336f2d",
+        "BRAND_500": "#54923e",
         "BRAND_560": "#eeeeee",
         "BRAND_600": "#3a3a3a",
         "YELLOW_300": "#66a648",
