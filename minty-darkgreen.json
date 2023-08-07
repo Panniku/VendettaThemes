@@ -1,6 +1,6 @@
 {
     "name": "MintY-DarkGreen",
-    "description": "Inspired from Linux Mint-Y themes. With Themes+ support. revision 1",
+    "description": "Inspired from Linux Mint-Y themes. With Themes+ support. revision 2",
     "authors": [
         {
             "name": "panniku",
@@ -140,7 +140,7 @@
         "PRIMARY_200": "#eeeeee",
         "PRIMARY_300": "#eeeeee",
         "PRIMARY_360": "#6a6a6a",
-        "PRIMARY_400": "#3a3a3a",
+        "PRIMARY_400": "#525252",
         "PRIMARY_460": "#2e2e2e",
         "PRIMARY_500": "#464646",
         "PRIMARY_600": "#232323",
