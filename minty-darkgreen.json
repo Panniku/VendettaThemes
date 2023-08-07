@@ -1,6 +1,6 @@
 {
     "name": "MintY-DarkGreen",
-    "description": "Inspired from Linux Mint-Y themes. With Themes+ support. revision 2",
+    "description": "Inspired from Linux Mint-Y themes. With Themes+ support.",
     "authors": [
         {
             "name": "panniku",
@@ -96,7 +96,7 @@
             "#66a648"
         ],
         "TEXT_DANGER": [
-            "#336f2d"
+            "#54923e"
         ],
         "KEYBOARD": [
             "#2e2e2e"
