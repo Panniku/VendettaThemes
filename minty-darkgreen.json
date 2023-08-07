@@ -162,7 +162,10 @@
     },
     "plus": {
         "version": 0,
-        "iconPack": "rosiecord-plumpy"
+        "unreadBadgeColor": "#a565f7",
+        "mentionLineColor": "#a96df7",
+        "customOverlays": true,
+        "iconpack": "rosiecord-plumpy"
     },
     "spec": 2
 }
