@@ -1,0 +1,18 @@
+{
+    "name": "icontest",
+    "description": "icontest",
+    "authors": [
+        {
+            "name": "panniku",
+            "id": "703634705152606318"
+        }
+    ],
+    "semanticColors": {},
+    "rawColors": {},
+    "plus": {
+        "version": 0,
+        "icon-pack": "m3-materialyou",
+        "customOverlays": true
+    },
+    "spec": 2
+}
