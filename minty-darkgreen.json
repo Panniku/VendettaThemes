@@ -162,7 +162,7 @@
     },
     "plus": {
         "version": 0,
-        "icon-pack": "m3-materialyou",
+        "iconPack": "m3-materialyou",
         "customOverlays": true
     },
     "spec": 2
