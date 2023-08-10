@@ -1,5 +1,5 @@
 {
-    "name": "MintY-DarkGreen",
+    "name": "MintY-Green",
     "description": "Inspired from Linux Mint-Y themes. With Themes+ support.",
     "authors": [
         {
@@ -9,13 +9,16 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#eeeeee"
+            "#eeeeee",
+            "#2e2e2e"
         ],
         "HEADER_SECONDARY": [
-            "#d6d6d6"
+            "#d6d6d6",
+            "#464646"
         ],
         "TEXT_NORMAL": [
-            "#eeeeee"
+            "#eeeeee",
+            "#2e2e2e"
         ],
         "TEXT_MUTED": [
             "#6a6a6a"
