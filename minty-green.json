@@ -108,7 +108,8 @@
             "#6a6a6a"
         ],
         "CHAT_BACKGROUND": [
-            "#232323"
+            "#232323",
+            "#fafafa"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
             "#2e2e2e"
