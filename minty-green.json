@@ -1,6 +1,6 @@
 {
     "name": "MintY-Green",
-    "description": "Inspired from Linux Mint-Y themes. With Themes+ support.",
+    "description": "Inspired from Linux Mint-Y themes. Light and Dark. With Themes+ support.",
     "authors": [
         {
             "name": "panniku",
@@ -21,122 +21,160 @@
             "#2e2e2e"
         ],
         "TEXT_MUTED": [
-            "#6a6a6a"
+            "#6a6a6a",
+            "#b2b2b2"
         ],
         "INTERACTIVE_NORMAL": [
-            "#6a6a6a"
+            "#6a6a6a",
+            "#b2b2b2"
         ],
         "INTERACTIVE_HOVER": [
-            "#e2e2e2"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#e2e2e2"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#464646"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#232323"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#2e2e2e"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
+            "#e2e2e2",
             "#3a3a3a"
         ],
+        "INTERACTIVE_ACTIVE": [
+            "#e2e2e2",
+            "#3a3a3a"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#464646",
+            "#d6d6d6"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#232323",
+            "#fafafa"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2e2e2e",
+            "#eeeeee"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#3a3a3a",
+            "#e2e2e2"
+        ],
         "BACKGROUND_TERTIARY": [
-            "#232323"
+            "#232323",
+            "#fafafa"
         ],
         "BACKGROUND_ACCENT": [
-            "#525252"
+            "#525252",
+            "#cacaca"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#525252"
+            "#525252",
+            "#cacaca"
         ],
         "BACKGROUND_FLOATING": [
-            "#2e2e2e"
+            "#2e2e2e",
+            "#eeeeee"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#232323"
+            "#232323",
+            "#fafafa"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#2e2e2e"
+            "#2e2e2e",
+            "#fafafa"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#2e2e2e"
+            "#2e2e2e",
+            "#fafafa"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#2e2e2e"
+            "#2e2e2e",
+            "#fafafa"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#464646"
+            "#464646",
+            "#d6d6d6"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
+            "#66a648",
             "#66a648"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#3a3a3a"
+            "#3a3a3a",
+            "#e2e2e2"
         ],
         "SCROLLBAR_THIN_THUMB": [
+            "#00000000",
             "#00000000"
         ],
         "SCROLLBAR_THIN_TRACK": [
+            "#00000000",
             "#00000000"
         ],
         "SCROLLBAR_AUTO_THUMB": [
+            "#00000000",
             "#00000000"
         ],
         "SCROLLBAR_AUTO_TRACK": [
+            "#00000000",
             "#00000000"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#202A32"
+            "#2e2e2e",
+            "#eeeeee"
         ],
         "CHANNELS_DEFAULT": [
-            "#6a6a6a"
+            "#6a6a6a",
+            "#d6d6d6"
         ],
         "TEXT_LINK": [
+            "#66a648",
             "#66a648"
         ],
         "TEXT_DANGER": [
-            "#54923e"
+            "#66a648",
+            "#66a648"
         ],
         "KEYBOARD": [
-            "#2e2e2e"
+            "#2e2e2e",
+            "#eeeeee"
         ],
         "CHANNEL_ICON": [
-            "#6a6a6a"
+            "#6a6a6a",
+            "#d6d6d6"
         ],
         "CHAT_BACKGROUND": [
             "#232323",
             "#fafafa"
         ],
         "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
-            "#2e2e2e"
+            "#2e2e2e",
+            "#eeeeee"
         ],
         "SPOILER_HIDDEN_BACKGROUND": [
-            "#2e2e2e"
+            "#2e2e2e",
+            "#eeeeee"
         ],
         "SPOILER_REVEALED_BACKGROUND": [
-            "#2e2e2e"
+            "#2e2e2e",
+            "#eeeeee"
         ],
         "BACKGROUND_MENTIONED": [
+            "#66a6481a",
             "#66a6481a"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
+            "#66a6481a",
             "#66a6481a"
         ],
         "LOGO_PRIMARY": [
-            "#eeeeee"
+            "#eeeeee",
+            "#2e2e2e"
         ],
         "MENTION_BACKGROUND": [
+            "#55923E80",
             "#55923E80"
         ],
         "MENTION_FOREGROUND": [
+            "#88cb5b",
             "#88cb5b"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
-            "#6a6a6a"
+            "#6a6a6a",
+            "#d6d6d6"
         ]
     },
     "rawColors": {
@@ -166,8 +204,7 @@
     },
     "plus": {
         "version": 0,
-        "iconpack": "m3-materialyou",
-        "customOverlays": true
+        "iconpack": "m3-materialyou"
     },
     "spec": 2
 }
