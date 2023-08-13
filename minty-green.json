@@ -50,7 +50,7 @@
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#3a3a3a",
-            "#eeeeee"
+            "#fafafa"
         ],
         "BACKGROUND_TERTIARY": [
             "#232323",
@@ -174,7 +174,7 @@
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#6a6a6a",
-            "#e2e2e2"
+            "#b2b2b2"
         ]
     },
     "rawColors": {
