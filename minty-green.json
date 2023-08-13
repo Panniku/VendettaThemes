@@ -42,7 +42,7 @@
         ],
         "BACKGROUND_PRIMARY": [
             "#232323",
-            "#fafafa"
+            "#d6d6d6"
         ],
         "BACKGROUND_SECONDARY": [
             "#2e2e2e",
@@ -74,7 +74,7 @@
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#2e2e2e",
-            "#d6d6d6"
+            "#e2e2e2"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#2e2e2e",
@@ -238,7 +238,7 @@
             "ic_discoverable_globe_guild_badge_light": "#66a648",
             "ic_discoverable_guild_badge_dark_24px": "#66a648",
             "ic_discoverable_guild_badge_light_24px": "#66a648",
-            "ic_discoverable_guild_badge_premmium_24px": "#66a648",
+            "ic_discoverable_guild_badge_premium_24px": "#66a648",
             "tier_1_32px": "#66a648",
             "tier_2_32px": "#66a648",
             "tier_3_32px": "#66a648",
