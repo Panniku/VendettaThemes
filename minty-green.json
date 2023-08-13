@@ -74,7 +74,7 @@
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#2e2e2e",
-            "#fafafa"
+            "#d6d6d6"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#2e2e2e",
@@ -118,7 +118,7 @@
         ],
         "CHANNELS_DEFAULT": [
             "#6a6a6a",
-            "#d6d6d6"
+            "#9a9a9a"
         ],
         "TEXT_LINK": [
             "#66a648",
@@ -204,7 +204,47 @@
     },
     "plus": {
         "version": 0,
-        "iconpack": "m3-materialyou"
+        "iconpack": "m3-materialyou",
+        "icons": {
+            "ic_new_pins": "#66a648",
+            "ic_new_pins_light": "#66a648",
+            "StatusOffline": "#3a3a3a",
+            "StatusOnline": "#66a648",
+            "StatusMobileOnline": "#66a648",
+            "StatusIdle": "#54923e",
+            "StatusDND": "#54923e",
+            "StatusStreaming": "#79ba53",
+            "ic_selection_none_24px": "#3a3a3a",
+            "ic_selection_checked_24px": "#66a648",
+            "ic_radio_square_24px": "#3a3a3a",
+            "ic_radio_square_checked_24px": "#66a648",
+            "ic_radio_circle": "#3a3a3a",
+            "ic_radio_circle_checked": "#66a648",
+            "ic_radio_circle_checked_green": "#66a648",
+            "toast_copy_link": "#66a648",
+            "toast_invite_sent": "#66a648",
+            "toast_image_saved": "#66a648",
+            "toast_copy_message": "#66a648",
+            "hub-icon": "#66a648",
+            "img_nitro_premium_guilds": "#66a648",
+            "img_nitro_premium_guilds_20px": "#66a648",
+            "ic_verified_guild_icon_black_24px": "#66a648",
+            "ic_verified_guild_icon_green_24px": "#66a648",
+            "ic_partnered_guild_icon_blurple_24px": "#66a648",
+            "ic_partnered_guild_icon_green_24px": "#66a648",
+            "ic_community_guild_badge_dark_24px": "#66a648",
+            "ic_community_guild_badge_light_24px": "#66a648",
+            "ic_community_guild_badge_premium_24px": "#66a648",
+            "ic_discoverable_globe_guild_badge_light": "#66a648",
+            "ic_discoverable_guild_badge_dark_24px": "#66a648",
+            "ic_discoverable_guild_badge_light_24px": "#66a648",
+            "ic_discoverable_guild_badge_premmium_24px": "#66a648",
+            "tier_1_32px": "#66a648",
+            "tier_2_32px": "#66a648",
+            "tier_3_32px": "#66a648",
+            "member_list_badge_16px": "#66a648",
+            "member_list_icon": "#66a648"
+        }
     },
     "spec": 2
 }
