@@ -42,7 +42,7 @@
         ],
         "BACKGROUND_PRIMARY": [
             "#232323",
-            "#e2e2e2"
+            "#eeeeee"
         ],
         "BACKGROUND_SECONDARY": [
             "#2e2e2e",
@@ -50,7 +50,7 @@
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#3a3a3a",
-            "#e2e2e2"
+            "#eeeeee"
         ],
         "BACKGROUND_TERTIARY": [
             "#232323",
@@ -134,7 +134,7 @@
         ],
         "CHANNEL_ICON": [
             "#6a6a6a",
-            "#d6d6d6"
+            "#9a9a9a"
         ],
         "CHAT_BACKGROUND": [
             "#232323",
@@ -174,7 +174,7 @@
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER": [
             "#6a6a6a",
-            "#d6d6d6"
+            "#e2e2e2"
         ]
     },
     "rawColors": {
