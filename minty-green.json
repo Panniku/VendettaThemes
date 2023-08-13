@@ -42,7 +42,7 @@
         ],
         "BACKGROUND_PRIMARY": [
             "#232323",
-            "#d6d6d6"
+            "#e2e2e2"
         ],
         "BACKGROUND_SECONDARY": [
             "#2e2e2e",
@@ -74,7 +74,7 @@
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#2e2e2e",
-            "#e2e2e2"
+            "#eeeeee"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#2e2e2e",
