@@ -204,7 +204,7 @@
     },
     "plus": {
         "version": 0,
-        "iconpack": "m3-materialyou",
+        "iconpack": "md3",
         "icons": {
             "ic_new_pins": "#66a648",
             "ic_new_pins_light": "#66a648",
