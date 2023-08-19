@@ -6,11 +6,15 @@ This is a list of all (or most) semantic colors used for theming.
 
 ## BACKGROUND_ACCENT
 
-////////!SECTION
+Channel list -> thread "pipe"  
+Messages -> reply pipe  
+Server icon event icon  
+Server "invite" button (channel list)
 
 ## BACKGROUND_FLOATING
 
-//////////////!SECTION
+User profile top (you)  
+User profile items background (others)
 
 ## BACKGROUND_MENTIONED
 
@@ -24,18 +28,51 @@ Mentioned background on hover (?)
 
 When you hover over a message.
 
+## BACKGROUND_MOBILE_PRIMARY
+
+UNKNOWN
+
+## BACKGROUND_MOBILE_SECONDARY
+
+Channel/DM list  
+Messages top bar  
+Member list top bar
+
+## BACKGROUND_MODIFIER_ACCENT
+
+Small line on the bottom bar (tabsv1)
+Divider lines in settings
+
+## BACKGROUND_MODIFIER_ACTIVE
+
+UNKNOWN
+
+## BACKGROUND_MODIFIER_HOVER
+
+UNKNOWN
+
+## BACKGROUND_MODIFIER_SELECTED
+
+Current selected channel/dm/user in list
+
 ## BACKGROUND_PRIMARY
 
 Bottom device navigation bar  
-Member list background
-Messages loading placeholder background
+Member list background  
+Messages loading placeholder background  
+Modal/popout background
 
 ## BACKGROUND_SECONDARY
 
 Folder background  
+Server icon background (without image)
 Currently typing user background  
-User profile background (non nitro)
-Server detail popout background
+User profile background (non nitro)  
+Server detail popout background  
+Embed backgrond.
+Emoji/gif/sticker input background
+Top device status bar (in settings)  
+Vendetta Themes bottom background
 
 ## BACKGROUND_SECONDARY_ALT
 
@@ -45,7 +82,14 @@ Emoji/gif/sticker "picker" background
 
 Background while looking at channel list, member list  
 A small bar under the channel header (message view)  
-Server details popout
+Server details popout  
+Jump to latest messages button  
+Embed side color placeholder  
+Emoji/gif/sticker picker selected  
+Vendetta Themes top background
+Search bar  
+"Done reading" background  
+Modal/popout top bar
 
 ## CHAT_BACKGROUND
 
