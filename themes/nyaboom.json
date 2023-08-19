@@ -27,52 +27,52 @@
 			"#374955"
 		],
 		"INTERACTIVE_ACTIVE": [
-			"#ff0000"
+			"#CBE4FA"
 		],
 		"INTERACTIVE_MUTED": [
-			"#00ff00"
+			"#485158"
 		],
 		"BACKGROUND_PRIMARY": [
-			"#0000ff"
+			"#171C20"
 		],
 		"BACKGROUND_SECONDARY": [
-			"#ffff00"
+			"#202A32"
 		],
 		"BACKGROUND_SECONDARY_ALT": [
-			"#ff00ff"
+			"#202A32"
 		],
 		"BACKGROUND_TERTIARY": [
-			"#00ffff"
+			"#171C20"
 		],
 		"BACKGROUND_ACCENT": [
-			"#364756"
+			"#f00"
 		],
 		"BACKGROUND_NESTED_FLOATING": [
-			"#202A32"
+			"#0f0"
 		],
 		"BACKGROUND_FLOATING": [
-			"#171C20"
+			"#00f"
 		],
 		"BACKGROUND_MOBILE_PRIMARY": [
-			"#171C20"
+			"#ff0"
 		],
 		"BACKGROUND_MOBILE_SECONDARY": [
-			"#202A32"
+			"#f0f"
 		],
 		"BACKGROUND_MESSAGE_HOVER": [
-			"#1E2529"
+			"#0ff"
 		],
 		"BACKGROUND_MODIFIER_HOVER": [
-			"#1E2529"
+			"#fca"
 		],
 		"BACKGROUND_MODIFIER_ACTIVE": [
-			"#1E2529"
+			"#fac"
 		],
 		"BACKGROUND_MODIFIER_SELECTED": [
-			"#374955"
+			"#cfa"
 		],
 		"BACKGROUND_MODIFIER_ACCENT": [
-			"#40474D"
+			"#afc"
 		],
 		"SCROLLBAR_THIN_THUMB": [
 			"#00000000"
