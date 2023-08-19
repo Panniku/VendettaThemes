@@ -83,8 +83,7 @@ The values for the color goes in this order:
 
 Dark  
 Light  
-Amoled  
-Darker (?)
+Midnight (Amoled)
 
 ```json
 "CHAT_BACKGROUND": [
@@ -111,7 +110,7 @@ Some colors are yet unknown, but will be added
 ## [Semantic Colors](https://github.com/Panniku/vd-themes/blob/main/docs/semantic_colors.md)
 
 These colors are mostly primary.  
-Flexible, and work for both Dark, Light, Amoled (?) and Darker themes (built-in discord).
+Flexible, and work for both Dark, Light and Mignight themes (built-in discord).
 
 ## [Raw Colors](https://github.com/Panniku/vd-themes/blob/main/docs/raw_colors.md)
 
