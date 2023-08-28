@@ -119,7 +119,7 @@ Supposed to show when you hover over icon (?)
 
 ## INTERATIVE_MUTED
 
-Muted channels, and preview text when you send a .message
+Muted channels, and preview text when you send a message
 
 ## INTERACTIVE NORMAL
 

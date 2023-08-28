@@ -51,7 +51,7 @@
             "#202A32"
         ],
         "BACKGROUND_FLOATING": [
-            "#171C20"
+            "#171C201a"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#171C20"
@@ -161,4 +161,4 @@
         "WHITE_500": "#E1E3E5"
     },
     "spec": 2
-    }
+}
