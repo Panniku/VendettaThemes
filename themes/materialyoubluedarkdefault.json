@@ -50,9 +50,6 @@
         "BACKGROUND_NESTED_FLOATING": [
             "#202A32"
         ],
-        "BACKGROUND_FLOATING": [
-            "#171C2073"
-        ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#171C20"
         ],
@@ -148,6 +145,7 @@
         "PRIMARY_660": "#364756",
         "PRIMARY_700": "#202A32",
         "PRIMARY_800": "#202A32",
+        "BLACK_500": "#171C2073",
         "BRAND_260": "#CBE4FA",
         "BRAND_360": "#76D1FF",
         "BRAND_500": "#364756",
