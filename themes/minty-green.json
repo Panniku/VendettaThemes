@@ -64,10 +64,6 @@
             "#525252",
             "#cacaca"
         ],
-        "BACKGROUND_FLOATING": [
-            "#2e2e2ebf",
-            "#eeeeeebf"
-        ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#232323",
             "#fafafa"
@@ -190,6 +186,7 @@
         "PRIMARY_660": "#3a3a3a",
         "PRIMARY_700": "#3a3a3a",
         "PRIMARY_800": "#232323",
+        "BLACK_500": "#2e2e2ebf",
         "BRAND_260": "#79ba53",
         "BRAND_360": "#66a648",
         "BRAND_500": "#54923e",
