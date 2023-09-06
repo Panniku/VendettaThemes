@@ -175,6 +175,7 @@
     },
     "rawColors": {
         "PRIMARY_100": "#eeeeee",
+        "PRIMARY_160": "#eeeeeebf",
         "PRIMARY_200": "#eeeeee",
         "PRIMARY_300": "#eeeeee",
         "PRIMARY_360": "#6a6a6a",
