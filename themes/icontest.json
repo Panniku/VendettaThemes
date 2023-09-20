@@ -1,6 +1,6 @@
 {
     "name": "icontest",
-    "description": "icontest 3",
+    "description": "icontest :3",
     "authors": [
         {
             "name": "panniku",
@@ -11,7 +11,7 @@
     "rawColors": {},
     "plus": {
         "version": 0,
-        "iconpack": "m3-materialyou"
+        "iconpack": "md3"
     },
     "spec": 2
 }
