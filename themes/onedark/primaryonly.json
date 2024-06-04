@@ -1,6 +1,7 @@
 {
-    "name": "primary only",
-    "description": "why would you do this",
+    "name": "RobotoFont",
+    "description": "Default Roboto",
+    "previewText": "Default Roboto",
     "version": "1",
     "authors": [
         {
@@ -8,7 +9,7 @@
             "id": "703634705152606318"
         }
     ],
-    "fonts": {
+    "main": {
         "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/Panniku/vd-themes/main/themes/onedark/Roboto-Thin.ttf",
         "ggsans-Bold": "https://raw.githubusercontent.com/Panniku/vd-themes/main/themes/onedark/Roboto-Medium.ttf",
         "ggsans-BoldItalic": "https://raw.githubusercontent.com/Panniku/vd-themes/main/themes/onedark/Roboto-Medium.ttf",
@@ -27,5 +28,5 @@
         "NotoSans-NormalItalic": "https://raw.githubusercontent.com/Panniku/vd-themes/main/themes/onedark/Roboto-Regular.ttf",
         "SourceCodePro-Semibold": "https://raw.githubusercontent.com/Panniku/vd-themes/main/themes/onedark/Roboto-Regular.ttf"
     },
-    "spec": 2
+    "spec": 1
 }
