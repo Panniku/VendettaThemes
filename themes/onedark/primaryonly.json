@@ -1,4 +1,5 @@
 {
+    "spec": 1,
     "name": "RobotoFont",
     "description": "Default Roboto",
     "previewText": "Default Roboto",
@@ -27,6 +28,5 @@
         "NotoSans-Normal": "https://raw.githubusercontent.com/Panniku/vd-themes/main/themes/onedark/Roboto-Light.ttf",
         "NotoSans-NormalItalic": "https://raw.githubusercontent.com/Panniku/vd-themes/main/themes/onedark/Roboto-Regular.ttf",
         "SourceCodePro-Semibold": "https://raw.githubusercontent.com/Panniku/vd-themes/main/themes/onedark/Roboto-Regular.ttf"
-    },
-    "spec": 1
+    }
 }
