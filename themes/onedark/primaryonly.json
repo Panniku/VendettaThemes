@@ -8,27 +8,6 @@
             "id": "703634705152606318"
         }
     ],
-    "rawColors": {
-        "PRIMARY_100": "#FFFFFF",
-        "PRIMARY_130": "#FEFBFF",
-        "PRIMARY_230": "#FAF8FF",
-        "PRIMARY_300": "#FFFBFF",
-        "PRIMARY_345": "#FFF7FA",
-        "PRIMARY_360": "#FEF0F8",
-        "PRIMARY_400": "#FFEBFB",
-        "PRIMARY_430": "#FDD7FA",
-        "PRIMARY_460": "#E0BBDE",
-        "PRIMARY_500": "#C3A0C2",
-        "PRIMARY_530": "#A786A6",
-        "PRIMARY_600": "#8C6D8C",
-        "PRIMARY_630": "#725572",
-        "PRIMARY_645": "#654966",
-        "PRIMARY_660": "#593D5A",
-        "PRIMARY_700": "#4D324E",
-        "PRIMARY_760": "#412742",
-        "PRIMARY_800": "#2A132C",
-        "PRIMARY_860": "#000000"
-    },
     "fonts": {
         "ABCGintoNord-ExtraBold": "https://raw.githubusercontent.com/Panniku/vd-themes/main/themes/onedark/Roboto-Thin.ttf",
         "ggsans-Bold": "https://raw.githubusercontent.com/Panniku/vd-themes/main/themes/onedark/Roboto-Medium.ttf",
